@@ -1,0 +1,2 @@
+experiment,architecture,pretrained,trainable_parameters,learning_rate,epochs_run,best_validation_loss,final_validation_accuracy,test_accuracy,test_macro_f1,training_duration_seconds,seed
+B1_From_Scratch,ResNet18,False,11181642,0.001,20,1.5205808247781363,0.4175084175084175,0.5201342281879194,0.4905506053223497,286.69352674484253,42

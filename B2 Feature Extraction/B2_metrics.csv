@@ -1,0 +1,2 @@
+Experiment,Architecture,Pretrained Weights,Trainable Parameters,Learning Rate,Epochs,Best Validation Loss,Test Accuracy,Test Macro F1
+B2,ResNet18,IMAGENET1K_V1,5130,0.001,4,0.23802873212530556,0.9395973154362416,0.93961213702217
