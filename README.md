@@ -1,6 +1,6 @@
 # Tugas 05 – Transfer Learning untuk Klasifikasi Citra dengan Data Terbatas
 
-**Nama:** [Nama Mahasiswa] | **NIM:** [NIM] | **Mata kuliah:** Deep Learning (Sesi 05 – Advanced CNNs and Transfer Learning)
+**Nama:** [Vincent Vibhava Pranata] | **NIM:** [2802415523]| **Mata kuliah:** Deep Learning (Sesi 05 – Advanced CNNs and Transfer Learning)
 
 ## Deskripsi
 Perbandingan ResNet-18 pada subset 10 kelas Oxford-IIIT Pet (5 kucing: Abyssinian, Bengal, Birman,
